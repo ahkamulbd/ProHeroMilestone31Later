@@ -38,7 +38,7 @@ function doubleIt(number) {
     return number * 2;
 }
 
-//function doubleIt = number => number * 2;  // Arrow Function is not working i.e. wrong sign shown on '='
+//function doubleIt = number => number * 2;       // Arrow Function is not working i.e. wrong sign shown on '='
 
 const result = getDoubles(numbers);
 console.log(result);
